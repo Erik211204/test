@@ -1,18 +1,15 @@
 import Login from "./Componets/Login"
+import StudentManegement from "./StudentManagement"
 
 function App() {
  
 
   return (
     <>
-      <Login/>
-      <Login/>
-      <Login/>
-      <Login/>
-      <Login/>
+     <StudentManegement/>
       
     </>
-    //Minh dep trai vclo
+    
     
   )
 }
